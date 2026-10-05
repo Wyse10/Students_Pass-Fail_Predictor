@@ -32,7 +32,7 @@ A Streamlit-based web application for predicting student pass/fail outcomes usin
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd c:\Users\Solowyse\Desktop\FinalYear
+   cd \FinalYear
    ```
 
 2. **Activate the virtual environment:**
